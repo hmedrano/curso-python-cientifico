@@ -25,6 +25,7 @@ Descargar el contenido de este repositorio, para ello tenemos dos opciones:
 - O descargarnos todo el contenido comprimido dando click en "Clone or download" -> "Download ZIP"
 
 
+
 Hecho esto necesitaremos descomprimir los archivos de datos que usaremos de ejemplo:
 
 `$> python curso-python-cientifico/data/unzipData.py`
