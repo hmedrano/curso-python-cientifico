@@ -13,5 +13,23 @@ Ruta a los slides de la presentación :
 precargada con las bibliotecas de cómputo científico que utilizaremos en el curso (SciPy stack y de optimización).
 
 
- 
+## Instrucciones
+
+Descargar el contenido de este repositorio, para ello tenemos dos opciones:
+
+
+- Con GIT:
+
+`$> git clone https://github.com/hmedrano/curso-python-cientifico.git` 
+
+- O descargarnos todo el contenido comprimido dando click en "Clone or download" -> "Download ZIP"
+
+
+Hecho esto necesitaremos descomprimir los archivos de datos que usaremos de ejemplo:
+
+`$> python curso-python-cientifico/data/unzipData.py`
+
+
+
+
 
