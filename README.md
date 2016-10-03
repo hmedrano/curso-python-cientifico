@@ -30,6 +30,15 @@ Hecho esto necesitaremos descomprimir los archivos de datos que usaremos de ejem
 
 `$> python curso-python-cientifico/data/unzipData.py`
 
+<br>
+<br>
+
+Para este curso se recopilo información de:
+
+- Python Data Analytics: Data Analysis and Science using pandas, matplotlib and the Python Programming Language 1st ed. Edition, by Fabio Nelli (Author)
+- SciPy and NumPy Examples to Jumpstart your Scientific Python Programming, By Eli Bressert
+- SciPy 2016: Scientific Computing with Python Conference: https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6
+
 
 
 
