@@ -44,5 +44,5 @@ Para este curso se recopilo información de:
 
 
 MTI Favio Medrano - hmedrano@cicese.mx
-
+CICESE 
 
