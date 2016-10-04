@@ -43,6 +43,8 @@ Para este curso se recopilo información de:
 - SciPy 2016: Scientific Computing with Python Conference: https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6
 
 
+
 MTI Favio Medrano - hmedrano@cicese.mx
-CICESE 
+
+CICESE Telematica - Dpto Cómputo
 
